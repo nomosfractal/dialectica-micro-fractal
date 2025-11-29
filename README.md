@@ -59,6 +59,29 @@ Este repositorio no busca producir un dogma, sino herramientas conceptuales y t�
 
 ---
 
+## ✍️ Autoría y Origen del Proyecto
+
+Este libro comenzó como una exploración personal y experimental.  
+Sin embargo, la **Dialéctica Micro-Fractal** no pretende sostenerse en la autoridad de un autor, ni en una firma única, ni en la idea clásica de propiedad intelectual.
+
+El origen existe, pero no es lo importante.
+
+Lo verdaderamente relevante es el **desarrollo colectivo** que pueda surgir a partir de estas ideas iniciales.  
+La agencia fractal no funciona como un sistema de autoría centralizada: se expande cuando múltiples voces reescriben, corrigen, tensionan o transforman el material.
+
+Por eso este repositorio invita abiertamente a:
+
+- reinterpretar los conceptos,  
+- extender el marco teórico,  
+- aportar ejemplos empíricos,  
+- proponer capítulos adicionales,  
+- crear implementaciones técnicas o sociales.
+
+Lo que aquí se presenta es un **punto de partida**, no una obra cerrada.  
+Cualquier evolución futura será obra de quienes adopten, critiquen y desarrollen este marco desde sus propias microprácticas y contextos.
+
+---
+
 ## 🧩 Cómo contribuir
 
 1. Haz un *fork* del repositorio.
@@ -106,26 +129,5 @@ Cuando lo actives, los archivos Markdown del libro se verán como capítulos nav
 ## 🤝 Agradecimientos
 
 Gracias a quienes han acompañado el proceso de escritura, discusión y revisión crítica. Este libro es, por diseño, una obra en expansión fractal.
-
-## ✍️ Autoría y Origen del Proyecto
-
-Este libro comenzó como una exploración personal y experimental.  
-Sin embargo, la **Dialéctica Micro-Fractal** no pretende sostenerse en la autoridad de un autor, ni en una firma única, ni en la idea clásica de propiedad intelectual.
-
-El origen existe, pero no es lo importante.
-
-Lo verdaderamente relevante es el **desarrollo colectivo** que pueda surgir a partir de estas ideas iniciales.  
-La agencia fractal no funciona como un sistema de autoría centralizada: se expande cuando múltiples voces reescriben, corrigen, tensionan o transforman el material.
-
-Por eso este repositorio invita abiertamente a:
-
-- reinterpretar los conceptos,  
-- extender el marco teórico,  
-- aportar ejemplos empíricos,  
-- proponer capítulos adicionales,  
-- crear implementaciones técnicas o sociales.
-
-Lo que aquí se presenta es un **punto de partida**, no una obra cerrada.  
-Cualquier evolución futura será obra de quienes adopten, critiquen y desarrollen este marco desde sus propias microprácticas y contextos.
 
 
