@@ -14,6 +14,25 @@ Siéntete libre de bifurcar, comentar o proponer capítulos adicionales.
 
 ---
 
+## 🌐 Versiones en distintos idiomas
+
+El proyecto está organizado para admitir y mantener traducciones de forma clara y ordenada.  
+Las versiones oficiales disponibles actualmente son:
+
+- **Español (es)** — versión original  
+  - `/book/es/`
+  - `/pdf/es/`
+  - `/latex/es/`
+
+- **Inglés (en)** — en desarrollo  
+  - `/book/en/`
+  - `/pdf/en/`
+  - `/latex/en/`
+
+Otras traducciones pueden desarrollarse de forma independiente como **forks** del repositorio. Algunas podrán integrarse posteriormente como versiones oficiales si mantienen coherencia conceptual y calidad editorial.
+
+---
+
 ## 📚 Estructura del repositorio
 
 <pre>
@@ -23,22 +42,16 @@ dialectica-microfractal/
 ├── LICENSE
 │
 ├── book/
-│ ├── 00_prologo.md
-│ ├── 01_continuidad.md
-│ ├── 02_accion_consciente.md
-│ ├── 03_tecnologia_fractal.md
-│ ├── 04_reputacion_fractal.md
-│ ├── 05_economia_fractal.md
-│ ├── 06_fiscalidad_fractal.md
-│ ├── 07_resiliencia_fractal.md
-│ ├── 99_epilogo.md
+│ ├── es/
+│ ├── en/
 │
 ├── pdf/
-│ ├── dialectica-microfractal.pdf
+│ ├── es/
+│ ├── en/
 │
 ├── latex/
-│ ├── main.tex
-│ ├── capitulos/
+│ ├── es/
+│ ├── en/
 │
 └── assets/
 ├── images/
