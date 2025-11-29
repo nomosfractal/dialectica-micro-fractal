@@ -16,6 +16,7 @@ Siéntete libre de bifurcar, comentar o proponer capítulos adicionales.
 
 ## 📚 Estructura del repositorio
 
+<pre>
 dialectica-microfractal/
 │
 ├── README.md
@@ -42,7 +43,7 @@ dialectica-microfractal/
 └── assets/
 ├── images/
 ├── diagrams/
-
+</pre>
 
 ---
 
