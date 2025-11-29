@@ -1,33 +1,131 @@
-# Dialéctica Micro-Fractal  
-### Marco conceptual para la acción consciente distribuida, la soberanía digital y la organización en microescala
+# Dialéctica Micro-Fractal: Coherencia, Agencia y Autonomía en la Era del Colapso
 
-**Dialéctica Micro-Fractal** es un proyecto en desarrollo que propone un marco para comprender y diseñar formas de coordinación social, económica y política que emergen desde la microescala. No es una teoría cerrada, sino un conjunto de herramientas conceptuales y técnicas para pensar la acción consciente en condiciones contemporáneas de hiperescala, extractivismo digital y crisis institucional.
+La **Dialéctica Micro-Fractal** es una propuesta conceptual, filosófica y práctica para pensar la acción humana en un mundo saturado de crisis, colapsos institucionales, vigilancia algorítmica y fragmentación afectiva. El texto propone que, cuando las estructuras macro fallan, la agencia más poderosa emerge desde la microescala: la coherencia personal, la práctica situada y la coordinación distribuida.
 
-El proyecto combina análisis filosófico, propuestas técnicas y ejemplos prácticos que abarcan:
+Este repositorio reúne:
 
-- subjetividad y coherencia personal  
-- tecnologías de soberanía digital  
-- reputación distribuida  
-- economías densas y no extractivas  
-- gobernanza federada  
-- resiliencia comunitaria  
-- protocolos de baja fricción  
-- acumulación de capital social disidente
+- 📘 La versión en **Markdown** del libro (carpeta `book/`)
+- 📄 La versión **PDF** final (carpeta `pdf/`)
+- 🧩 El código fuente en **LaTeX** (carpeta `latex/`)
+- 🖼️ Imágenes, diagramas y otros materiales (carpeta `assets/`)
 
-La obra está pensada como **código fuente**: modular, bifurcable y abierta a iteraciones. Nuevos capítulos, estudios de caso, prototipos tecnológicos o implementaciones comunitarias son bienvenidos.
+El objetivo es que el libro sea accesible, editable y extensible.  
+Siéntete libre de bifurcar, comentar o proponer capítulos adicionales.
 
 ---
 
-🤝 Contribuciones
+## 📚 Estructura del repositorio
 
-Este proyecto acepta:
-- sugerencias teóricas
-- extensiones técnicas (protocolos, diseños, pseudocódigo)
-- estudios de caso
-- mejoras al LaTeX
-- traducciones
+dialectica-microfractal/
+│
+├── README.md
+├── LICENSE
+│
+├── book/
+│ ├── 00_prologo.md
+│ ├── 01_continuidad.md
+│ ├── 02_accion_consciente.md
+│ ├── 03_tecnologia_fractal.md
+│ ├── 04_reputacion_fractal.md
+│ ├── 05_economia_fractal.md
+│ ├── 06_fiscalidad_fractal.md
+│ ├── 07_resiliencia_fractal.md
+│ ├── 99_epilogo.md
+│
+├── pdf/
+│ ├── dialectica-microfractal.pdf
+│
+├── latex/
+│ ├── main.tex
+│ ├── capitulos/
+│
+└── assets/
+├── images/
+├── diagrams/
 
-Sigue el flujo estándar de GitHub:
-1. Haz un fork
-2. Abre una branch
-3. Envía un pull request
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Crear un texto vivo, evolutivo y accesible que explore cómo individuos y comunidades pueden:
+
+- Recuperar su autonomía,
+- Reorganizarse en microestructuras resilientes,
+- Repensar la economía, la gobernanza y la tecnología,
+- Construir subjetividades coherentes y no capturables.
+
+Este repositorio no busca producir un dogma, sino herramientas conceptuales y técnicas que permitan navegar la época.
+
+---
+
+## 🧩 Cómo contribuir
+
+1. Haz un *fork* del repositorio.
+2. Crea una rama con tu contribución: git checkout -b mejora-capitulo-3
+3. Envía un *pull request* explicando tu modificación.
+
+Se aceptan:
+
+- Correcciones conceptuales o de estilo
+- Nuevos capítulos o anexos
+- Diagramas y visualizaciones
+- Versiones accesibles (audio, ePub, comentarios críticos)
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia  
+**Creative Commons BY-NC-SA 4.0 International**  
+(ver archivo `LICENSE`).
+
+Esto significa:
+
+- ✔ Puedes compartirlo
+- ✔ Puedes adaptarlo
+- ❌ No puedes usarlo con fines comerciales
+- 🔄 Debes mantener la misma licencia en derivados
+- 👤 Debes dar atribución adecuada
+
+---
+
+## 🌐 GitHub Pages (opcional)
+
+Este repositorio está preparado para publicarse como sitio web usando GitHub Pages.  
+Cuando lo actives, los archivos Markdown del libro se verán como capítulos navegables.
+
+---
+
+## ✨ Versión actual
+
+**v1.0.0 — Edición pública inicial**
+
+---
+
+## 🤝 Agradecimientos
+
+Gracias a quienes han acompañado el proceso de escritura, discusión y revisión crítica. Este libro es, por diseño, una obra en expansión fractal.
+
+## ✍️ Autoría y Origen del Proyecto
+
+Este libro comenzó como una exploración personal y experimental.  
+Sin embargo, la **Dialéctica Micro-Fractal** no pretende sostenerse en la autoridad de un autor, ni en una firma única, ni en la idea clásica de propiedad intelectual.
+
+El origen existe, pero no es lo importante.
+
+Lo verdaderamente relevante es el **desarrollo colectivo** que pueda surgir a partir de estas ideas iniciales.  
+La agencia fractal no funciona como un sistema de autoría centralizada: se expande cuando múltiples voces reescriben, corrigen, tensionan o transforman el material.
+
+Por eso este repositorio invita abiertamente a:
+
+- reinterpretar los conceptos,  
+- extender el marco teórico,  
+- aportar ejemplos empíricos,  
+- proponer capítulos adicionales,  
+- crear implementaciones técnicas o sociales.
+
+Lo que aquí se presenta es un **punto de partida**, no una obra cerrada.  
+Cualquier evolución futura será obra de quienes adopten, critiquen y desarrollen este marco desde sus propias microprácticas y contextos.
+
+
