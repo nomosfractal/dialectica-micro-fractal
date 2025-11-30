@@ -8,7 +8,30 @@ url: "https://nomosfractal.github.io/dialectica-micro-fractal"
 just_the_docs:
   logo: "/assets/images/logo.png"
   favicon_ico: "/assets/images/favicon.ico"
-  search_enabled: true
-  aux_links:
-    "Repositorio en GitHub":
-      - "https://github.com/nomosfractal/dialectica-micro-fractal"
+  aux_nav:
+    "Proyecto": 
+      - "Repositorio en GitHub": "https://github.com/nomosfractal/dialectica-micro-fractal"
+      - "Licencia": "/LICENSE"
+  collections:
+    es:
+      name: "Versión en Español"
+      nav_order: 0
+      permalink: "/es/:path/"
+      output: true
+
+# Activa la colección "es" para almacenar los capítulos
+collections:
+  es:
+    permalink: "/es/:path/"
+    output: true
+
+# Orden global de navegación
+nav_order: 0
+
+# Ajustes recomendados
+search_enabled: true
+markdown: kramdown
+kramdown:
+  input: GFM
+
+      
