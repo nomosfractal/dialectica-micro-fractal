@@ -27,10 +27,3 @@ La emergencia del sujeto fractal no es una solución para el presente, sino una 
 El sujeto fractal aparece allí donde alguien decide que, aunque no pueda controlar el mundo, sí puede sostener un pequeño patrón propio. Y en ese gesto mínimo, persistente, comienza a abrirse una posibilidad que el fractal de la captura no puede asimilar: la de mantener una forma que resista a la forma dominante.
 
 ---
-
-## 📌 Puntos clave
-
-- El sujeto fractal surge de la tensión entre un fractal que captura y otro que sostiene.  
-- No es una identidad ni una virtud moral, sino un patrón repetido que genera continuidad en medio del ruido.  
-- Su coherencia es relacional: produce estabilidad que otros pueden habitar.  
-- Esta continuidad mínima acumula capital social disidente con potencial político futuro.
