@@ -4,9 +4,8 @@ nav_order: 0
 has_children: true
 ---
 
-# Dialéctica Micro-Fractal
-
-Selecciona una versión en el menú:
+# Manifiesto Fractal
+Micro-políticas para el capitalismo tardío
 
 - [Versión en Español](/dialectica-micro-fractal/es/)
 
