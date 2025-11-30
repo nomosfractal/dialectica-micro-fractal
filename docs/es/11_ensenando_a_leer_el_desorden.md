@@ -30,9 +30,3 @@ Enseñar a leer el desorden no es un acto revolucionario en sentido clásico, pe
 
 ---
 
-## 📌 Puntos clave
-
-- Leer el desorden requiere continuidad afectiva y atención sostenida, ambas escasas hoy.  
-- Enseñar no es imponer claridad: es sostener un ritmo al que otros puedan aferrarse.  
-- La pedagogía fractal acompaña la formación de patrones propios, no su sustitución.  
-- Transmitir coherencia es un acto político: preserva la capacidad de interpretar y actuar.  
