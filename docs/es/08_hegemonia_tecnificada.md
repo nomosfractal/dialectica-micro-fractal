@@ -34,9 +34,3 @@ La hegemonía tecnificada define las condiciones del presente. El fractal cohere
 
 ---
 
-## 📌 Puntos clave
-
-- La hegemonía actual opera mediante infraestructura técnica que modula ritmos, atención y disponibilidad afectiva.  
-- No persuade: organiza el tiempo y, con él, qué puede ser elaborado y qué queda reducido a reacción.  
-- El sujeto fractal introduce patrones de duración que la hegemonía tecnificada no puede absorber.  
-- La coherencia crea pequeños márgenes de libertad que preservan sentido y vínculos en un entorno saturado.
