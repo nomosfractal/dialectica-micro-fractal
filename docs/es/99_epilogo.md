@@ -16,9 +16,4 @@ Por ello, este texto no marca un final. Es un punto de partida. Quedan capítulo
 
 La dialéctica micro-fractal crece por iteración. Su expansión no depende de un autor ni de un centro, sino de la coherencia distribuida de quienes decidan continuarla.
 
-## 📌 Puntos clave
-
-- Este texto es una primera versión: un marco abierto.  
-- La dialéctica micro-fractal funciona como código fuente: modular y adaptable.  
-- Futuras extensiones pueden abordar dimensiones técnicas, económicas, sociales y pedagógicas.  
-- La continuidad del proyecto depende de prácticas distribuidas, no de un centro autoral.
+-----
