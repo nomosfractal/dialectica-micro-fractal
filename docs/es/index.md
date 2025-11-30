@@ -1,12 +1,10 @@
 ---
 title: "Versión en Español"
-layout: default
-nav_order: 1
+nav_order: 0
 has_children: true
+parent: null
 ---
 
 # Versión en Español
 
-Esta es la versión original del texto.  
-Selecciona un capítulo en el menú.
-
+Selecciona un capítulo en el menú lateral.
