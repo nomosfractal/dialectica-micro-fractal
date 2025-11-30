@@ -29,10 +29,3 @@ La agencia de este sujeto no descansa en grandes gestos ni en rupturas espectacu
 El sujeto fractal no promete redención ni ofrece un programa. Es una figura que emerge del reconocimiento de los límites actuales y de la necesidad de sostener, pese a todo, una forma de vida que no sea simplemente reactiva. En ese gesto mínimo reside una potencia que no desaparece: la posibilidad de seguir componiendo mundo incluso cuando el mundo parece cerrarse.
 
 ---
-
-## 📌 Puntos clave
-
-- La fragmentación subjetiva es un efecto estructural, no un fallo individual.
-- La coherencia surge como práctica mínima para sostener libertad propia y ajena.
-- El sujeto fractal no es un yo unificado, sino un patrón que se repite en distintas escalas.
-- La consistencia interna genera capital social disidente que puede adquirir relevancia futura.
