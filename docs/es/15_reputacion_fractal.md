@@ -1,10 +1,10 @@
 ---
-title: "Reputación Fractal: Protocolos para la Confianza Distribuida"
+title: "Reputación Fractal: Protocolos para la Confianza Descentralizada"
 parent: "Versión en Español"
 nav_order: 16
 ---
 
-# Reputación Fractal: Protocolos para la Confianza Distribuida
+# Reputación Fractal: Protocolos para la Confianza Descentralizada
 
 La reputación, en la mayoría de los sistemas contemporáneos, ha sido absorbida por formas verticales de validación: títulos institucionales, cifras de audiencia, jerarquías laborales. Estos indicadores rara vez miden competencia real o responsabilidad social; funcionan más bien como mecanismos de ordenamiento que reproducen estructuras de poder. Organizacionalmente son eficientes, pero políticamente empobrecen: monoculturalizan la confianza.
 
