@@ -29,10 +29,3 @@ Distinguir estos dos fractales no es un ejercicio académico. Es una herramienta
 Lo fractal, en este sentido, no describe la forma del sujeto, sino la forma de su práctica. El sujeto fractal no es alguien que “tenga un fractal”, sino alguien cuya vida se organiza mediante patrones que pueden replicarse sin perder su estructura. El mundo actual nos ofrece un fractal de desgaste; la tarea es cultivar, en paralelo, un fractal de sostén.
 
 ---
-
-## 📌 Puntos clave
-
-- Existen dos fractales en tensión: uno que captura y fragmenta, otro que sostiene y da coherencia.  
-- La repetición no siempre produce estabilidad: puede desgastar o puede componer.  
-- Las prácticas mínimas generan continuidad compartida: la coherencia no es privada, sino expansiva.  
-- La acumulación lenta de pequeños patrones puede volverse políticamente relevante cuando cambian las condiciones históricas.
