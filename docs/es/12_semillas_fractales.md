@@ -30,9 +30,3 @@ No se trata de imaginar que lo micro reemplaza a lo macro, sino de comprender qu
 
 ---
 
-## 📌 Puntos clave
-
-- Las semillas fractales son patrones pequeños pero persistentes que resisten la volatilidad del entorno.  
-- Su función no es transformar directamente, sino preservar capacidades necesarias para cambios futuros.  
-- No son gestos simbólicos ni moralistas: operan dinámicamente, no discursivamente.  
-- Cuando las condiciones macro se abren, pueden convertirse en puntos de articulación colectiva.  
