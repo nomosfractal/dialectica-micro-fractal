@@ -1,7 +1,7 @@
 ---
 title: "Reputación Fractal: Protocolos para la Confianza Distribuida"
 parent: "Versión en Español"
-nav_order: 15
+nav_order: 16
 ---
 
 # Reputación Fractal: Protocolos para la Confianza Distribuida
