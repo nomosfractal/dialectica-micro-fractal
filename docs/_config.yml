@@ -1,8 +1,11 @@
 title: "Dialéctica Micro-Fractal"
 description: "Una exploración de coherencia, agencia y autonomía en tiempos de colapso."
-theme: remote_theme: just-the-docs/just-the-docs
 
-url: "https://nomosfractal.github.io/dialectica-micro-fractal"
+# 1. Corrección de Sintaxis del Tema
+remote_theme: just-the-docs/just-the-docs
+
+# La URL y el baseurl se manejan mejor con Jekyll, pero la configuración es correcta.
+url: "https://nomosfractal.github.io/dialectica-micro-fractal" 
 
 just_the_docs:
   logo: "/assets/images/logo.png"
@@ -13,6 +16,7 @@ just_the_docs:
       - "Repositorio en GitHub": "https://github.com/nomosfractal/dialectica-micro-fractal"
       - "Licencia": "/LICENSE"
 
+  # 2. Configuración de la Colección 'es' (Idioma)
   collections:
     es:
       name: "Versión en Español"
@@ -20,7 +24,7 @@ just_the_docs:
       permalink: "/es/:path/"
       output: true
 
+# 3. Necesario para procesar la colección
 collections:
   es:
     output: true
-    permalink: "/es/:path/"
