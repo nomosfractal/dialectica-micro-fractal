@@ -1,7 +1,7 @@
 ---
 title: "Fiscalidad Fractal: El Estado como Servicio, No como Aristocracia"
 parent: "Versión en Español"
-nav_order: 17
+nav_order: 18
 ---
 
 # Fiscalidad Fractal: El Estado como Servicio, No como Aristocracia
