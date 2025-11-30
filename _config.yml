@@ -1,0 +1,14 @@
+title: "Dialéctica Micro-Fractal"
+description: "Una exploración de coherencia, agencia y autonomía en tiempos de colapso."
+theme: just-the-docs
+
+url: "https://nomosfractal.github.io/dialectica-micro-fractal"
+
+# Navegación ordenada por nav_order
+just_the_docs:
+  logo: "/assets/images/logo.png"
+  favicon_ico: "/assets/images/favicon.ico"
+  search_enabled: true
+  aux_links:
+    "Repositorio en GitHub":
+      - "https://github.com/nomosfractal/dialectica-micro-fractal"
