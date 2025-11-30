@@ -30,9 +30,3 @@ La celda afectiva no desaparece por voluntad individual, pero puede ser debilita
 
 ---
 
-## 📌 Puntos clave
-
-- La afectividad es hoy una infraestructura política: se captura mediante saturación y urgencia.  
-- La celda afectiva no busca obediencia, sino dependencia afectiva y reactividad permanente.  
-- La coherencia no es autoayuda: es una redistribución de estabilidad emocional que beneficia a otros.  
-- Resistir la celda afectiva requiere patrones mínimos que protejan la atención y permitan continuidad.
