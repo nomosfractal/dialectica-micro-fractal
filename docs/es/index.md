@@ -4,7 +4,8 @@ nav_order: 1
 has_children: true
 ---
 
-# Versión en Español
+# Manifiesto Fractal
+Micro-políticas para el capitalismo tardío
 
 Selecciona un capítulo en el menú lateral.
 
