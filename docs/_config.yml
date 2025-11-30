@@ -8,7 +8,7 @@ remote_theme: just-the-docs/just-the-docs
 url: "https://nomosfractal.github.io/dialectica-micro-fractal" 
 
 just_the_docs:
-  logo: "/assets/images/logo.png"
+  logo: "assets/images/logo.png"
   favicon_ico: "/assets/images/favicon.ico"
 
   aux_nav:
