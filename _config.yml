@@ -1,37 +1,36 @@
 title: "Dialéctica Micro-Fractal"
 description: "Una exploración de coherencia, agencia y autonomía en tiempos de colapso."
-theme: just-the-docs
+
+# GitHub Pages requiere remote_theme
+remote_theme: just-the-docs/just-the-docs
 
 url: "https://nomosfractal.github.io/dialectica-micro-fractal"
 
-# Navegación ordenada por nav_order
+# La carpeta raíz del sitio será docs/
+source: docs
+
+# Habilitar la colección 'es'
+collections:
+  es:
+    output: true
+    permalink: "/es/:path/"
+
 just_the_docs:
-  logo: "/assets/images/logo.png"
-  favicon_ico: "/assets/images/favicon.ico"
-  aux_nav:
-    "Proyecto": 
-      - "Repositorio en GitHub": "https://github.com/nomosfractal/dialectica-micro-fractal"
-      - "Licencia": "/LICENSE"
   collections:
     es:
       name: "Versión en Español"
       nav_order: 0
-      permalink: "/es/:path/"
-      output: true
 
-# Activa la colección "es" para almacenar los capítulos
-collections:
-  es:
-    permalink: "/es/:path/"
-    output: true
+  logo: "/assets/images/logo.png"
+  favicon_ico: "/assets/images/favicon.ico"
 
-# Orden global de navegación
-nav_order: 0
+  aux_nav:
+    "Proyecto":
+      - "Repositorio en GitHub": "https://github.com/nomosfractal/dialectica-micro-fractal"
+      - "Licencia": "/LICENSE"
 
-# Ajustes recomendados
 search_enabled: true
 markdown: kramdown
+
 kramdown:
   input: GFM
-
-      
