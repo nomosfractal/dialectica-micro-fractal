@@ -22,9 +22,4 @@ La fiscalidad fractal propone un principio de **subsidiariedad radical**: toda f
 
 No es una revolución inmediata, sino una transición gradual mediante sustituciones funcionales. La acumulación de prácticas fiscales fractales genera **capital político disidente**: estructuras capaces de sostener autonomía y articular demandas cuando sea necesario.
 
-## 📌 Puntos clave
-
-- La fiscalidad fractal replantea qué tipo de Estado vale la pena financiar.  
-- La subsidiariedad radical desplaza funciones hacia escalas con más capacidad y legitimidad.  
-- Las redes locales pueden sostener vulnerabilidades mejor que un Estado central saturado.  
-- La acumulación de prácticas fiscales fractales genera capital político disidente sin destino histórico predeterminado.
+----
