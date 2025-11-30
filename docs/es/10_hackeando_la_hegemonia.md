@@ -30,9 +30,3 @@ Hackear la hegemonía no es una estrategia de emancipación inmediata, sino una 
 
 ---
 
-## 📌 Puntos clave
-
-- Hackear la hegemonía significa introducir desviaciones persistentes en los ritmos que la hegemonía impone.  
-- Estas desviaciones no destruyen el sistema, pero generan patrones alternativos de duración.  
-- La coherencia fractal acumula capital social disidente que preserva condiciones para la política futura.  
-- El hackeo no sustituye la acción colectiva: la hace posible al preservar la continuidad subjetiva.  
