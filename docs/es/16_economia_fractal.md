@@ -22,7 +22,7 @@ La economía fractal no confronta directamente al capitalismo tardío: lo despla
 
 La economía fractal no es una especulación. Ya está sucediendo, y cada práctica coherente —por pequeña que sea— amplía el horizonte de lo posible.
 
-## Puntos clave
+## 📌 Puntos clave
 
 - La microescala no es precariedad: es autonomía y retención local de valor.  
 - La economía fractal genera capital social y económico disidente con potencial de escalar políticamente.  
