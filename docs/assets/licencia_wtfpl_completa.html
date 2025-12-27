@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Licencia WTFPL - Dialéctica Micro-Fractal</title>
+    <style>
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.7;
+            color: #333;
+            background-color: #fafafa;
+        }
+        
+        .logo {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .logo img {
+            max-width: 200px;
+            height: auto;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 20px;
+        }
+        
+        .header h1 {
+            font-size: 2em;
+            margin-bottom: 10px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        
+        .header .subtitle {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .header .subtitle-en {
+            font-size: 1em;
+            font-style: italic;
+            color: #555;
+            margin-bottom: 15px;
+        }
+        
+        .version {
+            font-size: 1em;
+            font-weight: bold;
+            margin: 15px 0;
+        }
+        
+        .link {
+            font-size: 0.95em;
+            margin: 10px 0;
+        }
+        
+        .adaptation {
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid #666;
+            font-size: 0.95em;
+        }
+        
+        .adaptation h2 {
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+        
+        hr {
+            border: none;
+            border-top: 1px solid #ccc;
+            margin: 20px auto;
+        }
+        
+        hr.short {
+            width: 40%;
+        }
+        
+        .intro {
+            margin: 30px 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+            border-left: 4px solid #333;
+        }
+        
+        .intro h2 {
+            font-size: 1.2em;
+            margin-top: 0;
+            margin-bottom: 15px;
+        }
+        
+        .intro p {
+            margin-bottom: 10px;
+        }
+        
+        .essay-section {
+            margin: 40px 0;
+            padding: 25px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+        }
+        
+        .essay-section h2 {
+            font-size: 1.4em;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        
+        .essay-section h3 {
+            font-size: 1.1em;
+            margin-top: 25px;
+            margin-bottom: 12px;
+            font-weight: bold;
+        }
+        
+        .essay-section p {
+            margin-bottom: 15px;
+        }
+        
+        .essay-section em {
+            font-style: italic;
+        }
+        
+        .essay-section strong {
+            font-weight: bold;
+        }
+        
+        .terms {
+            text-align: center;
+            margin: 40px 0;
+            padding: 30px;
+            background-color: #fff;
+            border: 2px solid #333;
+        }
+        
+        .terms h2 {
+            font-size: 1.2em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 25px;
+        }
+        
+        .terms .main-term {
+            font-size: 1.8em;
+            font-weight: bold;
+            font-family: 'Courier New', monospace;
+            padding: 20px;
+            background-color: #f5f5f5;
+            border: 2px dashed #333;
+            display: inline-block;
+            margin: 20px 0;
+        }
+        
+        .note-section {
+            margin: 40px 0;
+            padding: 25px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+        }
+        
+        .note-section h2 {
+            font-size: 1.3em;
+            margin-bottom: 20px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .note-section p {
+            margin-bottom: 15px;
+        }
+        
+        .note-section .highlight {
+            padding: 15px;
+            background-color: #f0f0f0;
+            border-left: 4px solid #333;
+            margin: 20px 0;
+            font-style: italic;
+        }
+        
+        .original-license {
+            margin: 40px 0;
+            padding: 25px;
+            background-color: #2b2b2b;
+            color: #f0f0f0;
+            border: 3px solid #333;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+        
+        .original-license h2 {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            text-align: center;
+            color: #f0f0f0;
+        }
+        
+        .original-license pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            line-height: 1.5;
+            margin: 0;
+            color: #f0f0f0;
+        }
+        
+        .footer {
+            margin-top: 50px;
+            padding: 25px;
+            border-top: 2px solid #333;
+            text-align: center;
+            background-color: #fff;
+        }
+        
+        .footer p {
+            margin: 8px 0;
+        }
+        
+        .footer .title {
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        
+        .footer .subtitle-footer {
+            font-size: 0.9em;
+            color: #666;
+        }
+        
+        .footer .license-note {
+            font-weight: bold;
+            margin: 15px 0;
+        }
+        
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 600px) {
+            body {
+                margin: 20px;
+                padding: 15px;
+            }
+            
+            .header h1 {
+                font-size: 1.5em;
+            }
+            
+            .header .subtitle {
+                font-size: 1.1em;
+            }
+            
+            .terms .main-term {
+                font-size: 1.3em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="logo">
+        <img src="../assets/logo.png" alt="Logo Dialéctica Micro-Fractal">
+    </div>
+
+    <div class="header">
+        <h1>Licencia Pública WTFPL</h1>
+        <div class="subtitle">Hacé lo que se te dé la pinche gana</div>
+        <div class="subtitle-en"><em>-Do What The Fuck You Want To-</em></div>
+        <div class="version">Versión 2, diciembre 2004</div>
+        <div class="link"><a href="http://www.wtfpl.net/" target="_blank">http://www.wtfpl.net/</a></div>
+        <hr>
+        <div class="adaptation">
+            <h2>Dialéctica Micro-Fractal</h2>
+            <div>diciembre de 2024</div>
+        </div>
+        <hr class="short">
+    </div>
+
+    <div class="intro">
+        <h2>Introducción</h2>
+        <p>Esta obra es libre. Podés redistribuirla, modificarla, usarla comercialmente, no comercialmente, con o sin atribución, bajo los términos de la Licencia Pública WTFPL, Versión 2.</p>
+        <p>La licencia original fue publicada en inglés por Sam Hocevar. Esta es una adaptación al español que mantiene el espíritu y los términos legales. Ver <a href="http://www.wtfpl.net/" target="_blank">http://www.wtfpl.net/</a> para el texto original.</p>
+    </div>
+
+    <div class="essay-section">
+        <h2>Por qué esta licencia para un manifiesto fractal</h2>
+        
+        <h3>La licencia como práctica política</h3>
+        <p>La mayoría de las licencias libres—GPL, Creative Commons, MIT—construyen libertad mediante restricciones cuidadosamente calibradas. Dicen qué podés hacer, bajo qué condiciones, con qué obligaciones de reciprocidad. Son arquitecturas legales sofisticadas que protegen lo común mediante reglas explícitas.</p>
+        
+        <p>La WTFPL hace lo opuesto: elimina todas las restricciones excepto una ausencia. No dice qué podés hacer—dice que podés hacer lo que quieras. Esa radicalidad no es ingenuidad jurídica; es coherencia con una apuesta política específica: <strong>si un conocimiento realmente es común, no necesita guardián</strong>.</p>
+        
+        <h3>Renuncia a la trascendencia como estrategia</h3>
+        <p>Este manifiesto no busca que lo citen. Busca que lo usen, lo reescriban, lo olviden. La trascendencia del autor—ese deseo de ser recordado como origen—es forma de propiedad privada aplicada al pensamiento. Funciona igual que la propiedad de la tierra: cerca un territorio y cobra renta simbólica cada vez que alguien lo atraviesa.</p>
+        
+        <p>La WTFPL renuncia a esa renta. Cuando alguien usa estas ideas sin citar, no está cometiendo plagio—está haciendo exactamente lo que la licencia pide. <strong>El olvido de la fuente no es fracaso; es victoria</strong>. Significa que la idea ya circula sola, que se integró al vocabulario común, que ya no necesita apellido para validarse.</p>
+        
+        <p>Esa renuncia no es humildad performática. Es táctica. Los sistemas extractivos se sostienen en cadenas de atribución que convierten conocimiento en capital cultural. Romper esas cadenas—hacer que las ideas circulen sin deuda simbólica—es sabotaje epistémico.</p>
+        
+        <h3>La irreverencia como honestidad</h3>
+        <p>El "fuck" en WTFPL no es decoración punk. Es rechazo explícito a la solemnidad con que se trata la propiedad intelectual. Esa solemnidad—el lenguaje legal formal, las advertencias sobre derechos reservados, la amenaza implícita de demanda—funciona como intimidación. Dice: "este conocimiento tiene dueño, acercate con respeto y paga tu tributo".</p>
+        
+        <p>La profanidad interrumpe esa intimidación. Dice: "esto no es sagrado, no hay autoridad aquí, no te debo reverencia ni vos me debés permiso". Es gesto político deliberado. Si te ofende la palabra "fuck", probablemente creés que algo debe ser protegido del mero contacto con lo profano. La WTFPL dice que las ideas no son ese algo.</p>
+        
+        <p>Traducir "fuck" con eufemismos como "lo que te plazca" o "lo que desees" destruye el punto. No es lo mismo decir "hacé lo que consideres conveniente" que "hacé lo que se te dé la pinche gana". La primera sigue operando dentro de la lógica de respeto institucional. La segunda la rechaza.</p>
+        
+        <h3>Difusión sin autoridad</h3>
+        <p>La única función legítima de citar este texto es difusión: "leé esto porque puede serte útil". Pero esa citación no transfiere autoridad. No valida un argumento por asociación con supuesta autoridad del texto. Es simplemente: "no tengo nada que agregar en este momento, pero acá hay algo que funciona".</p>
+        
+        <p>Si el texto te convence, no lo cites—apropiate. Reescribí con tus palabras, cargá con el riesgo de afirmar esas ideas como propias. Eso no es deshonestidad intelectual; es exactamente lo que la licencia pide. La apropiación es estrategia; la citación es táctica ocasional.</p>
+        
+        <h3>Coherencia vs. legalidad</h3>
+        <p>Esta licencia permite cualquier uso—incluido el comercial extractivo. Podés usar este texto para vender cursos, consultorías, productos que reproduzcan exactamente las lógicas que el texto critica. La licencia no te lo impide.</p>
+        
+        <p>Pero si hacés eso, no violás la licencia—<strong>violás la coherencia</strong>. Y esa violación no es asunto legal sino político. El texto no te va a demandar, pero tampoco te va a absolver. Quien lea tu uso extractivo va a ver la contradicción. Esa visibilidad es la única sanción necesaria.</p>
+        
+        <p>La WTFPL confía en algo que las licencias restrictivas consideran ingenuo: que la coherencia importa, que la contradicción tiene costo social, que no necesitás amenaza legal para que la gente decida si quiere participar de lógicas extractivas o emancipatorias.</p>
+        
+        <h3>El conocimiento como común sin cercamiento</h3>
+        <p>Las licencias copyleft (GPL, CC-BY-SA) protegen lo común mediante cercamiento recíproco: podés usar libremente, pero debés compartir bajo mismos términos. Es estrategia válida que impide reabsorción capitalista.</p>
+        
+        <p>La WTFPL apuesta distinto: el conocimiento es común sin necesitar protección legal. Si alguien lo captura para uso extractivo, eso no empobrece el común—el texto sigue disponible para todos. Lo que sí genera es contradicción visible. Y esa contradicción es más potente que restricción legal.</p>
+        
+        <p>Para un manifiesto sobre agencia fractal—sobre actuar coherentemente en escalas pequeñas sin depender de estructuras macro—usar licencia que requiere enforcement legal sería contradicción performativa. La WTFPL es la única licencia coherente con esa apuesta: libertad radical sin guardián, común sin cercamiento, circulación sin deuda.</p>
+    </div>
+
+    <div class="terms">
+        <hr class="short">
+        <h2>Términos y Condiciones para Copia, Distribución y Modificación</h2>
+        <div class="main-term">0. Hacé lo que se te dé la pinche gana.</div>
+    </div>
+
+    <div class="note-section">
+        <h2>Nota sobre Apropiación y Citación</h2>
+        
+        <p>Este documento no pretende ser citado como autoridad. Si estas ideas te sirven, <strong>apropiatelas</strong>. Reescribí con tus palabras. Usá sin atribución. Mejorá si podés.</p>
+        
+        <p>La citación tiene un único propósito legítimo: <strong>difusión</strong>. Si pensás "esto debería leerlo X", pasá el link. Esa citación equivale a pasar el turno, reconocer que no tenés nada que agregar en este momento. Es gesto honesto de economía intelectual, no transferencia de autoridad.</p>
+        
+        <p>Pero si estas ideas te convencen, <strong>no las cites: hacelas tuyas y cargalas con tu propio riesgo</strong>. La apropiación es estrategia; la citación de difusión es táctica ocasional.</p>
+        
+        <div class="highlight">
+            <strong>Esta licencia no es un apéndice legal: es la aplicación práctica de lo que el texto defiende.</strong>
+        </div>
+        
+        <p>Si usás esto para tu beneficio individual reproduciendo las lógicas extractivas que el texto critica, no violás la licencia—violás la coherencia. La licencia no te lo va a impedir, pero tampoco te va a absolver.</p>
+        
+        <p>Las ideas son comunes. Su uso es libre. Su atribución es innecesaria para validación, aceptable para difusión, y eventualmente olvidable. Cuando la fuente se olvida, el conocimiento ya es de todos. <strong>Esa es la victoria.</strong></p>
+    </div>
+
+    <div class="original-license">
+        <h2>Texto Original de la Licencia (inglés)</h2>
+        <pre>DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+Version 2, December 2004
+
+Copyright (C) 2004 Sam Hocevar &lt;sam@hocevar.net&gt;
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+0. You just DO WHAT THE FUCK YOU WANT TO.</pre>
+    </div>
+
+    <div class="footer">
+        <p class="title">Dialéctica Micro-Fractal</p>
+        <p class="subtitle-footer">Marco conceptual y técnico para la acción consciente distribuida,<br>
+        la soberanía digital y la organización fractal.</p>
+        <p class="license-note">Licenciado bajo WTFPL — Hacé lo que se te dé la pinche gana</p>
+        <p><a href="https://github.com/nomosfractal/dialectica-micro-fractal" target="_blank">github.com/nomosfractal/dialectica-micro-fractal</a></p>
+    </div>
+</body>
+</html>
