@@ -3,8 +3,7 @@ title: "Versión en Español"
 nav_order: 1
 has_children: true
 ---
-
-# Manifiesto Fractal
+<img src="../assets/images/logo.png" alt="Logo Dialéctica Micro-Fractal" width="300px">
 
 Micro-políticas para el capitalismo tardío
 
