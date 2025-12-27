@@ -5,6 +5,7 @@ has_children: true
 ---
 
 # Manifiesto Fractal
+
 Micro-políticas para el capitalismo tardío
 
-
+[**Licencia** (¡Realmente importante!)](../assets/licencia_wtfpl_completa_es.html)
