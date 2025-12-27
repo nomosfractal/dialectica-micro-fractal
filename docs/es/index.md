@@ -8,4 +8,4 @@ has_children: true
 
 Micro-políticas para el capitalismo tardío
 
-[**Licencia** (¡Realmente importante!)](../assets/licencia_wtfpl_completa_es.html)
+<a href="../assets/licencia_wtfpl_completa_es.html" target="_blank"><strong>Licencia WTFPL</strong> -  (¡Esto es realmente importante!)</a>
