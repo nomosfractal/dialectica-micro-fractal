@@ -8,4 +8,4 @@ has_children: true
 Micro-políticas para el capitalismo tardío
 
 - [Versión en Español](/dialectica-micro-fractal/es/)
-
+- <a href="../assets/licencia_wtfpl_completa_es.html" target="_blank">Licencia WTFPL</a>
