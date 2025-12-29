@@ -1,3 +1,9 @@
+---
+title: "Cómo Leer Este Documento"
+parent: "Versión en Español"
+nav_order: 0
+---
+
 # Cómo Leer Este Documento
 
 Este manifiesto **NO es un libro académico ni una obra cerrada**.  
