@@ -56,19 +56,19 @@ Si después de leer ese capítulo te interesa algo más, volvé aquí y elegí s
 → **Lee primero:** ["Hackeando la Hegemonía: El Aula como Intersticio"](./10.0_hackeando_la_hegemonia.html)
 
 **Continúa con:**
-- [Cap. 12: "La complicidad de la abstracción científica"](link) — Si enseñas ciencias/matemáticas
-- [Cap. 13: "Enseñando a leer el desorden"](link) — Si enseñas economía/finanzas/tecnología
-- [Cap. 14: "Semillas Fractales: La Crianza como Práctica Política"](link) — Si te interesa educación temprana
+- ["La complicidad de la abstracción científica"](./10.4_abstraccion_complice.mhtml) — Si enseñas ciencias/matemáticas
+- [ "Enseñando a leer el desorden"](./11.0_ensenando_a_leer_el_desorden.htm) — Si enseñas economía/finanzas/tecnología
+- ["Semillas Fractales: La Crianza como Práctica Política"](./12.0_semillas_fractales.md) — Si te interesa educación temprana
 
 ---
 
 ### **Si trabajas en TECNOLOGÍA (desarrollo, sistemas, datos):**
 
-→ **Lee primero:** [Cap. 16: "Parasitismo de la Tecnoesfera"](link) — Sobre el uso táctico de IAs
+→ **Lee primero:** ["Parasitismo de la Tecnoesfera"](./14.5_parasitismo_operativo.html) — Sobre el uso táctico de IAs
 
 **Continúa con:**
-- [Cap. 15: "Tecnología Fractal: Protocolos para la Soberanía Digital"](link)
-- [Cap. 17: "Reputación Fractal: Protocolos para la Confianza Descentralizada"](link)
+- ["Tecnología Fractal: Protocolos para la Soberanía Digital"](./14.0_tecnologia_fractal.md)
+- ["Reputación Fractal: Protocolos para la Confianza Descentralizada"](./15.0_reputacion_fractal.html)
 
 **Advertencia:** Estos capítulos son técnicamente densos. Si te frustran, no es porque te falte algo. Es porque todavía no logramos simplificarlos lo suficiente.
 
@@ -76,23 +76,23 @@ Si después de leer ese capítulo te interesa algo más, volvé aquí y elegí s
 
 ### **Si sos ACTIVISTA o militante:**
 
-→ **Lee primero:** [Cap. 23: "El Activista Fractal: Entre la Calle y la Coherencia"](link)
+→ **Lee primero:** ["El Activista Fractal: Entre la Calle y la Coherencia"](link)
 
 **Continúa con:**
-- [Cap. 22: "Descentralizar el Poder: Del Estado-Alfa a la Multiplicidad Fractal"](link)
-- [Cap. 24: "Agencia fractal bajo coerción"](link)
+- ["Descentralizar el Poder: Del Estado-Alfa a la Multiplicidad Fractal"](link)
+- ["Agencia fractal bajo coerción"](link)
 
 ---
 
 ### **Si sos TRABAJADOR (especialmente joven/precarizado):**
 
-→ **Lee primero:** [Cap. 15: "La Generación de Cristal"](link)
+→ **Lee primero:** ["La Generación de Cristal"](link)
 
 Ese capítulo reinterpreta la "fragilidad" generacional como incompatibilidad estructural con el extractivismo. Puede ayudarte a nombrar lo que ya sentís.
 
 **Continúa con:**
-- [Cap. 14: "Semillas Fractales"](link) — Si tenés hijos o pensás tenerlos
-- [Cap. 18-21: Economía Fractal](link) — Si buscas alternativas económicas concretas
+- ["Semillas Fractales"](link) — Si tenés hijos o pensás tenerlos
+- [Economía Fractal](link) — Si buscas alternativas económicas concretas
 
 ---
 
@@ -108,7 +108,7 @@ Ese capítulo reinterpreta la "fragilidad" generacional como incompatibilidad es
 
 ### **Si tenés identidad de género no normativa (LGBTQ+):**
 
-→ **Lee primero:** [Cap. 16: "Identidades No Normativas y la Agencia Fractal"](link)
+→ **Lee primero:** ["Identidades No Normativas y la Agencia Fractal"](link)
 
 Este capítulo analiza desde un marco materialista (no moral) qué aportan las experiencias queer a sistemas post-extractivos.
 
@@ -118,39 +118,10 @@ Este capítulo analiza desde un marco materialista (no moral) qué aportan las e
 
 ## Sobre las Tensiones No Resueltas
 
-Este documento no resuelve todas sus contradicciones porque **la realidad tampoco lo hace**.
-
-Vas a encontrar tensiones como estas:
-
-### **Tensión 1: Construir infraestructura propia vs. parasitar la existente**
-- **Cap. 15** propone tecnología autónoma
-- **Cap. 16** propone usar IAs capitalistas tácticamente
-- **No hay respuesta única:** depende de recursos, urgencia y contexto.
-
-### **Tensión 2: Activismo callejero vs. coherencia personal**
-- **Cap. 22** critica la toma del poder estatal
-- **Cap. 23** valida la protesta como espacio necesario
-- **No son excluyentes:** la calle alfabetiza, la coherencia sostiene.
-
-### **Tensión 3: Elitismo de las herramientas vs. universalidad de la agencia**
-- **Caps. 15-21** proponen tecnologías complejas
-- **Cap. 24** reconoce que la agencia más radical no requiere nada de eso
-- **Ambas capas coexisten:** quien puede, construye infraestructura; quien no puede, sostiene prácticas nucleares.
-
-### **Tensión 4: Reputación algorítmica vs. autonomía**
-- **Cap. 17** propone sistemas de reputación distribuida
-- **Cap. 16** advierte contra delegar decisiones a algoritmos
-- **La distinción clave:** calcular ≠ decidir. Los algoritmos pueden informar, nunca mandar.
-
-**Esto no es descuido. Es honestidad.**
-
-No pretendemos tener todas las respuestas. Ofrecemos patrones, protocolos y preguntas que funcionan en ciertas escalas bajo ciertas condiciones.
-
-Si encontrás más tensiones no listadas aquí, **es bienvenido que las nombres explícitamente** en tu fork o contribución. Eso fortalece el documento, no lo debilita.
-
+Este documento no resuelve todas sus contradicciones porque **la realidad tampoco lo hace**. No pretendemos tener todas las respuestas. Ofrecemos patrones, protocolos y preguntas que funcionan en ciertas escalas bajo ciertas condiciones.
 ---
 
-## Glosario Mínimo (Solo Si Te Perdiste)
+## Glosario Mínimo (Solo si te perdiste)
 
 Este glosario NO es demostración de erudición.  
 Es un mapa de emergencia para cuando te encuentres con palabras raras.
