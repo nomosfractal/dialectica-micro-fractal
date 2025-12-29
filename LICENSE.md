@@ -5,7 +5,7 @@
 **Hacé lo que se te dé la pinche gana** <br> 
 <em>-Do What The Fuck You Want To-</em>
 
-**Versión 2, diciembre 2005**
+**Versión 2, diciembre 2004**
 <br>
 [http://www.wtfpl.net/](http://www.wtfpl.net/)
 <hr>
@@ -63,21 +63,21 @@ Las ideas son comunes. Su uso es libre. Su atribución es innecesaria para valid
 
 </div>
 
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+```
+        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+                    Version 2, December 2004 
 
-Version 2, December 2004
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
 
-Copyright (C) 2004 Sam Hocevar sam@hocevar.net
+ Everyone is permitted to copy and distribute verbatim or modified 
+ copies of this license document, and changing it is allowed as long 
+ as the name is changed. 
 
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-You just DO WHAT THE FUCK YOU WANT TO.
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
 
 ---
 
