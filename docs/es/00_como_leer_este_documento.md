@@ -47,7 +47,7 @@ Si después de leer ese capítulo te interesa algo más, volvé aquí y elegí s
 
 ### **Si trabajas en EDUCACIÓN (docente, maestro, profesor):**
 
-→ **Lee primero:** [Cap. 11: "Hackeando la Hegemonía: El Aula como Intersticio"](link)
+→ **Lee primero:** ["Hackeando la Hegemonía: El Aula como Intersticio"](./10.0_hackeando_la_hegemonia.html)
 
 **Continúa con:**
 - [Cap. 12: "La complicidad de la abstracción científica"](link) — Si enseñas ciencias/matemáticas
