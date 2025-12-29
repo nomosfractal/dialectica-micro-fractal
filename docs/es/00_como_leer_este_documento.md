@@ -76,22 +76,22 @@ Si después de leer ese capítulo te interesa algo más, volvé aquí y elegí s
 
 ### **Si sos ACTIVISTA o militante:**
 
-→ **Lee primero:** ["El Activista Fractal: Entre la Calle y la Coherencia"](link)
+→ **Lee primero:** ["El Activista Fractal: Entre la Calle y la Coherencia"](./20.0_el_activista_fractal.html)
 
 **Continúa con:**
-- ["Descentralizar el Poder: Del Estado-Alfa a la Multiplicidad Fractal"](link)
-- ["Agencia fractal bajo coerción"](link)
+- ["Descentralizar el Poder: Del Estado-Alfa a la Multiplicidad Fractal"](./19.0_descentralizar_el_poder.html)
+- ["Agencia fractal bajo coerción"](./20.2_agencia_fractal_bajo_coercion.html)
 
 ---
 
 ### **Si sos TRABAJADOR (especialmente joven/precarizado):**
 
-→ **Lee primero:** ["La Generación de Cristal"](link)
+→ **Lee primero:** ["La Generación de Cristal"](./12.2_generacion_de_cristal.html)
 
 Ese capítulo reinterpreta la "fragilidad" generacional como incompatibilidad estructural con el extractivismo. Puede ayudarte a nombrar lo que ya sentís.
 
 **Continúa con:**
-- ["Semillas Fractales"](link) — Si tenés hijos o pensás tenerlos
+- ["Semillas Fractales"](./12.0_semillas_fractales.html) — Si tenés hijos o pensás tenerlos
 - [Economía Fractal](link) — Si buscas alternativas económicas concretas
 
 ---
