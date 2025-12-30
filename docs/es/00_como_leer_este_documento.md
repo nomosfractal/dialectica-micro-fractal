@@ -12,7 +12,7 @@ Es un repositorio de patrones, protocolos y preguntas abiertas.
 
 ---
 
-## Antes de empezar: Acerca de quién puede leer esto y cómo
+## Acerca de quién puede leer esto y cómo
 
 Este documento tiene un problema.
 
