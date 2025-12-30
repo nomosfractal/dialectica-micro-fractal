@@ -1,7 +1,7 @@
 ---
-title: "Cómo Leer Este Documento"
+title: "Cómo leer estos apuntes"
 parent: "Versión en Español"
-nav_order: 0
+nav_order: 1
 ---
 
 # Cómo Leer Este Documento
