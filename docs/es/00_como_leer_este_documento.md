@@ -92,7 +92,7 @@ Ese capítulo reinterpreta la "fragilidad" generacional como incompatibilidad es
 
 **Continúa con:**
 - ["Semillas Fractales"](./12.0_semillas_fractales.html) — Si tenés hijos o pensás tenerlos
-- [Economía Fractal](link) — Si buscas alternativas económicas concretas
+- [Economía Fractal](./16.0_economia_fractal.html) — Si buscas alternativas económicas concretas
 
 ---
 
@@ -108,7 +108,7 @@ Ese capítulo reinterpreta la "fragilidad" generacional como incompatibilidad es
 
 ### **Si tenés identidad de género no normativa (LGBTQ+):**
 
-→ **Lee primero:** ["Identidades No Normativas y la Agencia Fractal"](link)
+→ **Lee primero:** ["Identidades No Normativas y la Agencia Fractal"](./12.4_identidades_no_normativas.html)
 
 Este capítulo analiza desde un marco materialista (no moral) qué aportan las experiencias queer a sistemas post-extractivos.
 
@@ -119,6 +119,7 @@ Este capítulo analiza desde un marco materialista (no moral) qué aportan las e
 ## Sobre las Tensiones No Resueltas
 
 Este documento no resuelve todas sus contradicciones porque **la realidad tampoco lo hace**. No pretendemos tener todas las respuestas. Ofrecemos patrones, protocolos y preguntas que funcionan en ciertas escalas bajo ciertas condiciones.
+
 ---
 
 ## Glosario Mínimo (Solo si te perdiste)
