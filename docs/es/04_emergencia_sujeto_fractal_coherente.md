@@ -1,7 +1,7 @@
 ---
 title: "La Emergencia del Sujeto Fractal"
 parent: "Versión en Español"
-nav_order: 5
+nav_order: 4
 ---
 
 Constelación: Vida cotidiana / Agencia
