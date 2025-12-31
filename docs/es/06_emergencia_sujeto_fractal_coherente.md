@@ -4,7 +4,13 @@ parent: "Versión en Español"
 nav_order: 5
 ---
 
-# La Emergencia del Sujeto Fractal
+Constelación: Vida cotidiana / Agencia
+Nivel: Intermedio
+Antecedente: Los dos fractales
+Estado: Completo
+
+→ Nodo de entrada: la coherencia como efecto, no como virtud
+
 
 **Tipo:** Conceptual | **Nivel:** Intermedio  
 **Requiere:** Comprensión de los capítulos 
@@ -13,7 +19,11 @@ y [Los Dos Fractales: Enajenación y Coherencia](./03.0_los_dos_fractales.html)
 **Estado:** Completo  
 → *Cómo surge la coherencia fractal como respuesta material a la fragmentación*
 
+
+
 ---
+
+# La Emergencia del Sujeto Fractal
 
 La coexistencia de dos fractales —uno que captura, otro que sostiene— no es un simple contraste conceptual. Produce una tensión cotidiana que atraviesa la experiencia de casi todas las personas. Vivir hoy es habitar simultáneamente patrones que dispersan la atención y prácticas que intentan recomponerla. No se trata de una elección deliberada entre dos estilos de vida, sino de una dinámica estructural: el mundo insiste en fragmentar mientras la vida insiste en mantenerse unida.
 
