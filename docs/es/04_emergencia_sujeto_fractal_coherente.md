@@ -4,22 +4,9 @@ parent: "Versión en Español"
 nav_order: 4
 ---
 
-Constelación: Vida cotidiana / Agencia
-Nivel: Intermedio
-Antecedente: Los dos fractales
-Estado: Completo
-
-→ Nodo de entrada: la coherencia como efecto, no como virtud
-
-
-**Tipo:** Conceptual | **Nivel:** Intermedio  
-**Requiere:** Comprensión de los capítulos 
-[El Sujeto Fractal](./02.0_el_sujeto_fractal.html) 
-y [Los Dos Fractales: Enajenación y Coherencia](./03.0_los_dos_fractales.html)    
-**Estado:** Completo  
-→ *Cómo surge la coherencia fractal como respuesta material a la fragmentación*
-
-
+> Área: *Vida cotidiana / Agencia*  
+> Nivel: *Intermedio*  
+> Antecedente: <a href="./03.0_los_dos_fractales.html">*Los Dos Fractales: Enajenación y Coherencia*</a>  
 
 ---
 
