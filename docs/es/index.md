@@ -1,6 +1,6 @@
 ---
 title: "Versión en Español"
-nav_order: 0.5
+nav_order: 0.25
 has_children: true
 ---
 
