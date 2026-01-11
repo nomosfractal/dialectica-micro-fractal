@@ -14,12 +14,11 @@ El PDF es una **representación estática**.
 La versión editable se encuentra en:
 
 - `book/es/` (Markdown)  
-- `latex/es/` (LaTeX)
 
-Las modificaciones deben hacerse en esas carpetas, no sobre el PDF.
+Las modificaciones deben hacerse en esa carpeta, no sobre el PDF.
 
 ## 📄 Licencia
 
-El contenido está protegido bajo la licencia  
-**Creative Commons BY-NC-SA 4.0 International**.
+El contenido de este sitio está protegido bajo la   
 
+**LICENCIA PÚBLICA WTFPL**: Hacé lo que se te dé la pinche gana
